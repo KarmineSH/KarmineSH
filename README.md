@@ -15,14 +15,11 @@
 
 ### 👻 About Me :
 
-I am a Full Stack Developer from Montréal, Canada. I'm working as a Dev and as a Project Lead - meaning that I'm the main reference in terms of techs for the development team on a project.
+I am a Full Stack Developer from Montréal, Canada.
 
-- 🔭 I'm currently working on a Next.js project
+- 🔭 I'm currently working on a React/.NET8 project
 - 🌱 Lately I've been exploring infrastructure as code and Azure pipelines, further expanding my own definition of Full Stack Dev
-- 👯 I'm collaborating on a pet project with my partner that is still in the thinking phase but will be related to TTRPG
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karinesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karinesh/)
-- 😄 They/She
-- ⚡ I've been playing a lot of Minecraft in the past months
 
 ---
 
@@ -51,19 +48,3 @@ I am a Full Stack Developer from Montréal, Canada. I'm working as a Dev and as 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsGh0stly&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsGh0stly&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**itsGh0stly/itsGh0stly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
